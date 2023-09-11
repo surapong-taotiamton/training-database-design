@@ -9,3 +9,8 @@
 * สมาชิกสามารถ Search หนังสือได้จากชื่อสำนักพิมพ์
 * สมาชิกสามารถ Search หนังสือได้ด้วยชื่อหนังสือ
 * สมาชิกสามารถดูประวัติการยืมได้
+
+## ตัวอย่างระบบห้องสมุด
+
+* TkPark : <https://library.tkpark.or.th/main/index.aspx>
+* สำนักหอสมุดกลางลาดกระบัง :  https://opac.lib.kmitl.ac.th/main/index.aspx
